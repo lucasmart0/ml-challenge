@@ -1,0 +1,3 @@
+psec>=1.3.0
+cryptography>=42.0
+dukpt>=1.0   # opcional, requerido solo para el subcomando decrypt-dukpt
